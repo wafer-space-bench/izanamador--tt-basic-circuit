@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/izanamador/tt-basic-circuit
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26a
+  slot: tt_um_wokwi_465732847401723905
+  project: Basic Circuit
+  size: 1x1
+  kind: digital (Wokwi)
+  commit: c3345f953ec948c2b70013c03b0eac0be7770df8
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26a/tt_um_wokwi_465732847401723905
+  branch: tapeout/tinytapeout/ttgf26a/tt_um_wokwi_465732847401723905
+  page: https://app.tinytapeout.com/shuttles/ttgf26a
+generated: '2026-10-17T23:52:40Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf26a/tt_um_wokwi_465732847401723905
+- upstream/main
